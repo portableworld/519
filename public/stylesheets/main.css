@@ -1,0 +1,128 @@
+body {
+	background-image: url(../../images/website_0026_Background.png);
+	background-color: #630;
+	background-repeat: repeat-x;
+	background-position: 0px -250px;
+}
+#up_line {
+	position: absolute;
+	left: 174px;
+	top: 124px;
+        z-index: 5;
+}
+#rss_logo {
+	position: absolute;
+	top: 473px;
+	left: 105px;
+        z-index: 5;
+}
+#fb_logo {
+	position: absolute;
+	left: 94px;
+	top: 320px;
+        z-index: 5;
+}
+#twitter_logo {
+	position: absolute;
+	left: 96px;
+	top: 244px;
+        z-index: 5;
+}
+#side_line {
+	position: absolute;
+	top: 116px;
+	left: 196px;
+}
+#bubble {
+	position: absolute;
+	left: 455px;
+	top: 381px;
+        z-index: 5;
+}
+#twitter_logo_name {
+	position: absolute;
+	left: 608px;
+	top: 428px;
+        z-index: 5;
+}
+#ms_logo {
+	position: absolute;
+	left: 92px;
+	top: 398px;
+}
+#content_area {
+	position: absolute;
+	z-index: -1;
+	left: 50px;
+	top: 27px;
+}
+#gold_lines {
+	position: absolute;
+	left: 10px;
+	top: -59px;
+}
+.links {
+	position: absolute;
+	top: 285px;
+	z-index: 2;
+}
+#about {
+	left: 425px;
+	position: absolute;
+	top: -10px;
+        z-index: 5;
+}
+#about_hover {
+	left: 388px;
+	position: absolute;
+	top: -47px;
+        z-index: 4;
+}
+#bookings {
+	position: absolute;
+	left: 300px;
+	top: -10px;
+        z-index: 5;
+}
+#bookings_hover {
+	position: absolute;
+	left: 263px;
+	top: -47px;
+        z-index: 4;
+}
+#artists {
+	position: absolute;
+	left: 195px;
+	top: -10px;
+        z-index: 5;
+}
+#artists_hover {
+	position: absolute;
+	left: 158px;
+	top: -47px;
+        z-index: 4;
+}
+#home {
+	position: absolute;
+	left: 100px;
+	top: -8px;
+        z-index: 5;
+}
+#home_hover {
+	position: absolute;
+	left: 63px;
+	top: -45px;
+        z-index: 4;
+}
+#latest_h {
+	position: absolute;
+	left: 37px;
+	top: 321px;
+	z-index: 4;
+}
+#latest_line {
+	position: absolute;
+	left: 45px;
+	top: 341px;
+	z-index: 4;
+}
