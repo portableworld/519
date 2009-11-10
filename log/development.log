@@ -821,3 +821,233 @@ Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/]
 Processing WelcomeController#index (for 127.0.0.1 at 2009-11-08 22:12:12) [GET]
 Rendering welcome/index
 Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2009-11-09 22:15:51) [GET]
+Rendering welcome/index
+Completed in 20ms (View: 18, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2009-11-09 22:16:54) [GET]
+Rendering welcome/index
+Completed in 72ms (View: 17, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2009-11-09 22:18:03) [GET]
+Rendering welcome/index
+Completed in 9ms (View: 7, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2009-11-09 22:18:23) [GET]
+Rendering welcome/index
+Completed in 9ms (View: 7, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2009-11-09 22:18:30) [GET]
+Rendering welcome/index
+Completed in 8ms (View: 7, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2009-11-09 22:18:43) [GET]
+Rendering welcome/index
+Completed in 9ms (View: 8, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2009-11-09 22:18:57) [GET]
+Rendering welcome/index
+Completed in 8ms (View: 7, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2009-11-09 22:19:06) [GET]
+Rendering welcome/index
+Completed in 8ms (View: 7, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2009-11-09 22:20:33) [GET]
+Rendering welcome/index
+Completed in 8ms (View: 7, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2009-11-09 22:20:57) [GET]
+Rendering welcome/index
+Completed in 9ms (View: 6, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2009-11-09 22:21:09) [GET]
+Rendering welcome/index
+Completed in 8ms (View: 7, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2009-11-09 22:21:15) [GET]
+Rendering welcome/index
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2009-11-09 22:21:22) [GET]
+Rendering welcome/index
+Completed in 10ms (View: 7, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2009-11-09 22:21:27) [GET]
+Rendering welcome/index
+Completed in 8ms (View: 7, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2009-11-09 22:22:27) [GET]
+Rendering welcome/index
+Completed in 8ms (View: 7, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2009-11-09 22:22:53) [GET]
+Rendering welcome/index
+Completed in 8ms (View: 7, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2009-11-09 22:23:43) [GET]
+Rendering welcome/index
+Completed in 8ms (View: 7, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2009-11-09 22:24:47) [GET]
+Rendering welcome/index
+Completed in 9ms (View: 7, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2009-11-09 22:25:55) [GET]
+Rendering welcome/index
+Completed in 9ms (View: 7, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2009-11-09 22:27:01) [GET]
+Rendering welcome/index
+Completed in 8ms (View: 7, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2009-11-09 22:28:06) [GET]
+Rendering welcome/index
+Completed in 8ms (View: 7, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2009-11-09 22:30:02) [GET]
+Rendering welcome/index
+Completed in 8ms (View: 7, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2009-11-09 22:31:01) [GET]
+Rendering welcome/index
+Completed in 9ms (View: 6, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2009-11-09 22:31:54) [GET]
+Rendering welcome/index
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2009-11-09 22:32:36) [GET]
+Rendering welcome/index
+Completed in 8ms (View: 7, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2009-11-09 22:36:09) [GET]
+Rendering welcome/index
+Completed in 15ms (View: 14, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2009-11-09 22:36:31) [GET]
+Rendering welcome/index
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2009-11-09 22:36:50) [GET]
+Rendering welcome/index
+Completed in 9ms (View: 7, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2009-11-09 22:36:58) [GET]
+Rendering welcome/index
+Completed in 8ms (View: 7, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2009-11-09 22:37:05) [GET]
+Rendering welcome/index
+Completed in 9ms (View: 7, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2009-11-09 22:37:10) [GET]
+Rendering welcome/index
+Completed in 9ms (View: 7, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2009-11-09 22:37:17) [GET]
+Rendering welcome/index
+Completed in 8ms (View: 7, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2009-11-09 22:37:28) [GET]
+Rendering welcome/index
+Completed in 9ms (View: 8, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2009-11-09 22:37:35) [GET]
+Rendering welcome/index
+Completed in 9ms (View: 8, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2009-11-09 22:41:18) [GET]
+Rendering welcome/index
+Completed in 16ms (View: 14, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2009-11-09 22:41:32) [GET]
+Rendering welcome/index
+Completed in 9ms (View: 8, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2009-11-09 22:41:37) [GET]
+Rendering welcome/index
+Completed in 9ms (View: 8, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2009-11-09 22:41:41) [GET]
+Rendering welcome/index
+Completed in 9ms (View: 8, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2009-11-09 22:41:47) [GET]
+Rendering welcome/index
+Completed in 8ms (View: 7, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2009-11-09 22:41:59) [GET]
+Rendering welcome/index
+Completed in 11ms (View: 9, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2009-11-09 22:42:55) [GET]
+Rendering welcome/index
+Completed in 9ms (View: 7, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2009-11-09 22:48:17) [GET]
+Rendering welcome/index
+Completed in 17ms (View: 15, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2009-11-09 22:48:34) [GET]
+Rendering welcome/index
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2009-11-09 22:48:44) [GET]
+Rendering welcome/index
+Completed in 9ms (View: 7, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2009-11-09 22:48:53) [GET]
+Rendering welcome/index
+Completed in 10ms (View: 7, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2009-11-09 22:49:33) [GET]
+Rendering welcome/index
+Completed in 11ms (View: 9, DB: 0) | 200 OK [http://localhost/]

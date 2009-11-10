@@ -4,6 +4,10 @@ $('#home_hover').hide();
 $('#artists_hover').hide();
 $('#bookings_hover').hide();
 $('#about_hover').hide();
+$('#rss_logo_hover').hide();
+$('#fb_logo_hover').hide();
+$('#twitter_logo_hover').hide();
+$('#ms_logo_hover').hide();
 
 $('#home').hover(
     function(){
@@ -37,5 +41,36 @@ $('#about').hover(
         $('#about_hover').hide();
     });
 
+$('#rss_logo').hover(
+    function(){
+        $('#rss_logo_hover').show();
+    },
+    function(){
+        $('#rss_logo_hover').hide();
+    });
+
+$('#fb_logo').hover(
+    function(){
+        $('#fb_logo_hover').show();
+    },
+    function(){
+        $('#fb_logo_hover').hide();
+    });
+
+$('#twitter_logo').hover(
+    function(){
+        $('#twitter_logo_hover').show();
+    },
+    function(){
+        $('#twitter_logo_hover').hide();
+    });
+
+$('#ms_logo').hover(
+    function(){
+        $('#ms_logo_hover').show();
+    },
+    function(){
+        $('#ms_logo_hover').hide();
+    });
 
 });

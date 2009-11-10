@@ -16,17 +16,35 @@ body {
 	left: 105px;
         z-index: 5;
 }
+#rss_logo_hover {
+        position: absolute;
+        top: 435px;
+        left: 68px;
+        z-index: 4;
+}
 #fb_logo {
 	position: absolute;
 	left: 94px;
 	top: 320px;
         z-index: 5;
 }
+#fb_logo_hover {
+	position: absolute;
+	left: 58px;
+	top: 282px;
+        z-index: 4;
+}
 #twitter_logo {
 	position: absolute;
 	left: 96px;
 	top: 244px;
         z-index: 5;
+}
+#twitter_logo_hover {
+	position: absolute;
+	left: 58px;
+	top: 208px;
+        z-index: 4;
 }
 #side_line {
 	position: absolute;
@@ -49,6 +67,13 @@ body {
 	position: absolute;
 	left: 92px;
 	top: 398px;
+        z-index: 5;
+}
+#ms_logo_hover {
+	position: absolute;
+	left: 57px;
+	top: 360px;
+        z-index: 4;
 }
 #content_area {
 	position: absolute;
