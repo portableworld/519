@@ -1051,3 +1051,896 @@ Completed in 10ms (View: 7, DB: 0) | 200 OK [http://localhost/]
 Processing WelcomeController#index (for 127.0.0.1 at 2009-11-09 22:49:33) [GET]
 Rendering welcome/index
 Completed in 11ms (View: 9, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing Rails::InfoController#properties (for 127.0.0.1 at 2009-11-13 14:48:50) [GET]
+  [4;36;1mSQL (1.0ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+Completed in 57ms (View: 7, DB: 1) | 200 OK [http://localhost/rails/info/properties]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2009-11-13 14:48:54) [GET]
+Rendering welcome/index
+Completed in 31ms (View: 30, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2009-11-13 15:20:05) [GET]
+Rendering welcome/index
+Completed in 18ms (View: 16, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2009-11-13 16:30:42) [GET]
+Rendering welcome/index
+Completed in 107ms (View: 87, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2009-11-13 16:31:37) [GET]
+Rendering welcome/index
+Completed in 18ms (View: 16, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2009-11-13 16:32:24) [GET]
+Rendering welcome/index
+Completed in 28ms (View: 27, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2009-11-13 16:32:37) [GET]
+Rendering welcome/index
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2009-11-13 16:34:37) [GET]
+Rendering welcome/index
+Completed in 18ms (View: 16, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2009-11-13 16:34:57) [GET]
+Rendering welcome/index
+Completed in 19ms (View: 17, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2009-11-13 16:35:19) [GET]
+Rendering welcome/index
+Completed in 18ms (View: 16, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2009-11-13 16:37:01) [GET]
+Rendering welcome/index
+Completed in 118ms (View: 116, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2009-11-13 16:43:19) [GET]
+Rendering welcome/index
+Completed in 11ms (View: 9, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2009-11-13 16:46:01) [GET]
+Rendering welcome/index
+Completed in 11ms (View: 9, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2009-11-13 16:46:11) [GET]
+Rendering welcome/index
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2009-11-13 16:46:19) [GET]
+Rendering welcome/index
+Completed in 9ms (View: 8, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2009-11-13 16:46:27) [GET]
+Rendering welcome/index
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2009-11-13 16:46:37) [GET]
+Rendering welcome/index
+Completed in 10ms (View: 9, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2009-11-13 16:46:42) [GET]
+Rendering welcome/index
+Completed in 13ms (View: 11, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2009-11-13 16:48:48) [GET]
+Rendering welcome/index
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2009-11-13 16:49:01) [GET]
+Rendering welcome/index
+Completed in 13ms (View: 11, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2009-11-13 16:49:15) [GET]
+Rendering welcome/index
+Completed in 13ms (View: 11, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2009-11-13 16:49:36) [GET]
+Rendering welcome/index
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2009-11-13 16:49:48) [GET]
+Rendering welcome/index
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2009-11-13 16:49:54) [GET]
+Rendering welcome/index
+Completed in 9ms (View: 8, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2009-11-13 16:50:10) [GET]
+Rendering welcome/index
+Completed in 10ms (View: 9, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2009-11-13 16:50:28) [GET]
+Rendering welcome/index
+Completed in 11ms (View: 10, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2009-11-13 16:51:07) [GET]
+Rendering welcome/index
+Completed in 9ms (View: 8, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2009-11-13 16:51:34) [GET]
+Rendering welcome/index
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2009-11-13 16:51:59) [GET]
+Rendering welcome/index
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2009-11-13 16:52:11) [GET]
+Rendering welcome/index
+Completed in 10ms (View: 9, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2009-11-13 16:52:20) [GET]
+Rendering welcome/index
+Completed in 9ms (View: 8, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2009-11-13 16:52:36) [GET]
+Rendering welcome/index
+Completed in 10ms (View: 9, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2009-11-13 16:53:00) [GET]
+Rendering welcome/index
+Completed in 10ms (View: 9, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2009-11-13 16:53:06) [GET]
+Rendering welcome/index
+Completed in 9ms (View: 8, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2009-11-13 16:53:13) [GET]
+Rendering welcome/index
+Completed in 9ms (View: 7, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2009-11-13 16:53:51) [GET]
+Rendering welcome/index
+Completed in 11ms (View: 9, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2009-11-13 16:55:22) [GET]
+Rendering welcome/index
+Completed in 9ms (View: 8, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2009-11-13 17:11:42) [GET]
+Rendering welcome/index
+Completed in 11ms (View: 7, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2009-11-13 17:12:08) [GET]
+Rendering welcome/index
+Completed in 102ms (View: 99, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2009-11-13 17:16:00) [GET]
+Rendering welcome/index
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2009-11-13 17:27:24) [GET]
+Rendering welcome/index
+Completed in 15ms (View: 14, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2009-11-13 17:28:41) [GET]
+Rendering welcome/index
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2009-11-13 17:29:45) [GET]
+Rendering welcome/index
+Completed in 9ms (View: 8, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2009-11-13 17:30:54) [GET]
+Rendering welcome/index
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2009-11-13 17:31:02) [GET]
+Rendering welcome/index
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2009-11-13 17:33:10) [GET]
+Rendering welcome/index
+Completed in 10ms (View: 9, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2009-11-13 17:33:47) [GET]
+Rendering welcome/index
+Completed in 10ms (View: 9, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2009-11-13 17:34:02) [GET]
+Rendering welcome/index
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2009-11-13 17:34:07) [GET]
+Rendering welcome/index
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2009-11-13 17:34:18) [GET]
+Rendering welcome/index
+Completed in 11ms (View: 9, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2009-11-13 17:34:30) [GET]
+Rendering welcome/index
+Completed in 9ms (View: 8, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2009-11-13 17:34:44) [GET]
+Rendering welcome/index
+Completed in 9ms (View: 7, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2009-11-13 17:34:52) [GET]
+Rendering welcome/index
+Completed in 10ms (View: 9, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2009-11-13 17:34:58) [GET]
+Rendering welcome/index
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2009-11-13 17:38:24) [GET]
+Rendering welcome/index
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2009-11-13 17:38:51) [GET]
+Rendering welcome/index
+Completed in 10ms (View: 9, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2009-11-13 17:39:49) [GET]
+Rendering welcome/index
+ERROR: compiling _run_erb_app47views47welcome47index46html46erb RAISED compile error
+C:/Users/Charlie/519Productions/app/views/welcome/index.html.erb:59: syntax error, unexpected ';', expecting ')'
+...p://www.facebook.com' ).to_s); @output_buffer.concat "\n"
+                              ^
+Function body:           def _run_erb_app47views47welcome47index46html46erb(local_assigns)
+            old_output_buffer = output_buffer;;@output_buffer = '';  __in_erb_template=true ; @output_buffer.concat "<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">\n"
+@output_buffer.concat "<html xmlns=\"http://www.w3.org/1999/xhtml\">\n"
+@output_buffer.concat "<head>\n"
+@output_buffer.concat "<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" />\n"
+@output_buffer.concat "<title>519 Productions</title>\n"
+@output_buffer.concat(( stylesheet_link_tag 'main', 'tweet' ).to_s); @output_buffer.concat "\n"
+@output_buffer.concat(( javascript_include_tag 'jquery.min.js', 'tweet/jquery.tweet.js', 'application.js' ).to_s); @output_buffer.concat "\n"
+@output_buffer.concat "\n"
+@output_buffer.concat "<script type=\"text/javascript\">\n"
+@output_buffer.concat "  $(document).ready(function () {\n"
+@output_buffer.concat "    $(\".tweet\").tweet({\n"
+@output_buffer.concat "      username: \"portableworld\",\n"
+@output_buffer.concat "      count: 3\n"
+@output_buffer.concat "      \n"
+@output_buffer.concat "    });\n"
+@output_buffer.concat "  });\n"
+@output_buffer.concat "</script>\n"
+@output_buffer.concat "</head>\n"
+@output_buffer.concat "\n"
+@output_buffer.concat "<body>\n"
+@output_buffer.concat "<p>\n"
+@output_buffer.concat "  "; @output_buffer.concat(( image_tag 'verse.png', {:alt => 'Verse', :name => 'verse',
+    :id => 'verse', :width => '553', :height => '162'} ).to_s); @output_buffer.concat "\n"
+@output_buffer.concat "  "; @output_buffer.concat(( image_tag 'latest_happening.png', {:name => 'latest_h', :width => '254',
+    :height => '187', :id => 'latest_h'} ).to_s); @output_buffer.concat "\n"
+@output_buffer.concat "  "; @output_buffer.concat(( image_tag 'rss_logo.png', {:alt => 'RSS Feed Link', :name => 'rss_logo',
+    :width => '69', :height => '76', :id => 'rss_logo'} ).to_s); @output_buffer.concat "\n"
+@output_buffer.concat "  "; @output_buffer.concat(( image_tag 'rss_logo_hover.png', {:id => 'rss_logo_hover'} ).to_s); @output_buffer.concat "\n"
+@output_buffer.concat "  "; @output_buffer.concat((  image_tag 'new_happenings.png', {:name => 'latest_line', :width => '242',
+          :height => '164', :id => 'latest_line'} ).to_s); @output_buffer.concat "\n"
+@output_buffer.concat "\n"
+@output_buffer.concat "  <p class=\"links\">\n"
+@output_buffer.concat "    "; @output_buffer.concat(( image_tag 'home.png', {:alt => 'Home', :name => 'home',
+      :width => '69', :height => '19', :id => 'home'} ).to_s); @output_buffer.concat "\n"
+@output_buffer.concat "    "; @output_buffer.concat(( image_tag 'home_hover.png', {:alt => 'Home', :name => 'home',
+      :id => 'home_hover'} ).to_s); @output_buffer.concat "\n"
+@output_buffer.concat "    "; @output_buffer.concat(( image_tag 'artists.png', {:alt => 'Artists', :name => 'artists',
+      :width => '80', :height => '21', :id => 'artists'} ).to_s); @output_buffer.concat "\n"
+@output_buffer.concat "    "; @output_buffer.concat(( image_tag 'artists_hover.png', {:alt => 'Artists', :name => 'artists',
+      :id => 'artists_hover'} ).to_s); @output_buffer.concat "\n"
+@output_buffer.concat "    "; @output_buffer.concat(( image_tag 'bookings.png', {:alt => 'Bookings', :name => 'bookings',
+      :width => '105', :height => '28', :id => 'bookings'} ).to_s); @output_buffer.concat "\n"
+@output_buffer.concat "    "; @output_buffer.concat(( image_tag 'bookings_hover.png', {:alt => 'Bookings', :name => 'bookings',
+      :id => 'bookings_hover'} ).to_s); @output_buffer.concat "\n"
+@output_buffer.concat "    "; @output_buffer.concat(( image_tag 'about.png', {:alt => 'About', :name => 'about',
+      :width => '74', :height => '22', :id => 'about'} ).to_s); @output_buffer.concat "\n"
+@output_buffer.concat "    "; @output_buffer.concat(( image_tag 'about_hover.png', {:alt => 'About', :name => 'about',
+      :id => 'about_hover'} ).to_s); @output_buffer.concat "\n"
+@output_buffer.concat "    "; @output_buffer.concat(( image_tag 'gold_lines.png', {:width => '964', :height => '604',
+      :id => 'gold_lines'} ).to_s); @output_buffer.concat "\n"
+@output_buffer.concat "    "; @output_buffer.concat(( image_tag 'up_line.png', {:width => '1', :height => '353',
+      :id => 'up_line'} ).to_s); @output_buffer.concat "\n"
+@output_buffer.concat "    "; @output_buffer.concat(( image_tag 'content.png', {:width => '891', :height => '457',
+      :id => 'content_area'} ).to_s); @output_buffer.concat "\n"
+@output_buffer.concat "    "; @output_buffer.concat(( image_tag 'twitter_logo.png', {:width => '68', :height => '70',
+      :id => 'twitter_logo'} ).to_s); @output_buffer.concat "\n"
+@output_buffer.concat "    "; @output_buffer.concat(( image_tag 'twitter_logo_hover.png', {:id => 'twitter_logo_hover'} ).to_s); @output_buffer.concat "\n"
+@output_buffer.concat "    "; @output_buffer.concat(( link_to(image_tag 'fb_logo.png', {:width => '71', :height => '71',
+      :id => 'fb_logo'}, 'http://www.facebook.com' ).to_s); @output_buffer.concat "\n"
+@output_buffer.concat "    "; @output_buffer.concat(( image_tag 'fb_logo_hover.png', {:id => 'fb_logo_hover'} ).to_s); @output_buffer.concat "\n"
+@output_buffer.concat "    "; @output_buffer.concat(( image_tag 'myspace_logo.png', {:width => '76', :height => '75',
+      :id => 'ms_logo'} ).to_s); @output_buffer.concat "\n"
+@output_buffer.concat "    "; @output_buffer.concat(( image_tag 'myspace_logo_hover.png', {:id => 'ms_logo_hover'} ).to_s); @output_buffer.concat "\n"
+@output_buffer.concat "    "; @output_buffer.concat(( image_tag 'side_line.png', {:width => '292', :height => '1',
+      :id => 'side_line'} ).to_s); @output_buffer.concat "\n"
+@output_buffer.concat "        "; @output_buffer.concat(( image_tag 'twitter_bubble.png', {:id => 'bubble'} ).to_s); @output_buffer.concat "\n"
+@output_buffer.concat "        "; @output_buffer.concat(( image_tag 'twitter_logo_name.png', {:width => '252', :height => '52',
+          :id => 'twitter_logo_name'} ).to_s); @output_buffer.concat "\n"
+@output_buffer.concat "    <div class=\"tweet\"></div>\n"
+@output_buffer.concat "  </p>\n"
+@output_buffer.concat "</body>\n"
+@output_buffer.concat "</html>\n"
+@output_buffer
+          ensure
+            self.output_buffer = old_output_buffer
+          end
+Backtrace: C:/Users/Charlie/519Productions/app/views/welcome/index.html.erb:76:in `compile!'
+C:/Ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_view/renderable.rb:61:in `compile'
+C:/Ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_view/renderable.rb:28:in `render'
+C:/Ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_view/template.rb:194:in `render_template'
+C:/Ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_view/base.rb:260:in `render'
+C:/Ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/base.rb:1241:in `render_for_file'
+C:/Ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/base.rb:937:in `render_without_benchmark'
+C:/Ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/benchmarking.rb:51:in `render'
+C:/Ruby/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+C:/Ruby/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/core_ext/benchmark.rb:10:in `realtime'
+C:/Ruby/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+C:/Ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/benchmarking.rb:51:in `render'
+C:/Ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/base.rb:1317:in `default_render'
+C:/Ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/base.rb:1323:in `perform_action_without_filters'
+C:/Ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/filters.rb:617:in `call_filters'
+C:/Ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/filters.rb:610:in `perform_action_without_benchmark'
+C:/Ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/benchmarking.rb:68:in `perform_action_without_rescue'
+C:/Ruby/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+C:/Ruby/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/core_ext/benchmark.rb:10:in `realtime'
+C:/Ruby/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+C:/Ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/benchmarking.rb:68:in `perform_action_without_rescue'
+C:/Ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/rescue.rb:160:in `perform_action_without_flash'
+C:/Ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/flash.rb:141:in `perform_action'
+C:/Ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/base.rb:523:in `send'
+C:/Ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/base.rb:523:in `process_without_filters'
+C:/Ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/filters.rb:606:in `process'
+C:/Ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/base.rb:391:in `process'
+C:/Ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/base.rb:386:in `call'
+C:/Ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/routing/route_set.rb:433:in `call'
+C:/Ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/dispatcher.rb:88:in `dispatch'
+C:/Ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/dispatcher.rb:111:in `_call'
+C:/Ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/dispatcher.rb:82:in `initialize'
+C:/Ruby/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/query_cache.rb:29:in `call'
+C:/Ruby/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/query_cache.rb:29:in `call'
+C:/Ruby/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/connection_adapters/abstract/query_cache.rb:34:in `cache'
+C:/Ruby/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/query_cache.rb:9:in `cache'
+C:/Ruby/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/query_cache.rb:28:in `call'
+C:/Ruby/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/connection_adapters/abstract/connection_pool.rb:361:in `call'
+C:/Ruby/lib/ruby/gems/1.8/gems/rack-1.0.0/lib/rack/head.rb:9:in `call'
+C:/Ruby/lib/ruby/gems/1.8/gems/rack-1.0.0/lib/rack/methodoverride.rb:24:in `call'
+C:/Ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/params_parser.rb:15:in `call'
+C:/Ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/rewindable_input.rb:25:in `call'
+C:/Ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/session/cookie_store.rb:93:in `call'
+C:/Ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/reloader.rb:9:in `call'
+C:/Ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/failsafe.rb:11:in `call'
+C:/Ruby/lib/ruby/gems/1.8/gems/rack-1.0.0/lib/rack/lock.rb:11:in `call'
+C:/Ruby/lib/ruby/gems/1.8/gems/rack-1.0.0/lib/rack/lock.rb:11:in `synchronize'
+C:/Ruby/lib/ruby/gems/1.8/gems/rack-1.0.0/lib/rack/lock.rb:11:in `call'
+C:/Ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/dispatcher.rb:106:in `call'
+C:/Ruby/lib/ruby/gems/1.8/gems/rails-2.3.2/lib/rails/rack/static.rb:31:in `call'
+C:/Ruby/lib/ruby/gems/1.8/gems/rack-1.0.0/lib/rack/urlmap.rb:46:in `call'
+C:/Ruby/lib/ruby/gems/1.8/gems/rack-1.0.0/lib/rack/urlmap.rb:40:in `each'
+C:/Ruby/lib/ruby/gems/1.8/gems/rack-1.0.0/lib/rack/urlmap.rb:40:in `call'
+C:/Ruby/lib/ruby/gems/1.8/gems/rails-2.3.2/lib/rails/rack/log_tailer.rb:17:in `call'
+C:/Ruby/lib/ruby/gems/1.8/gems/rack-1.0.0/lib/rack/content_length.rb:13:in `call'
+C:/Ruby/lib/ruby/gems/1.8/gems/rack-1.0.0/lib/rack/chunked.rb:15:in `call'
+C:/Ruby/lib/ruby/gems/1.8/gems/rack-1.0.0/lib/rack/handler/mongrel.rb:61:in `process'
+C:/Ruby/lib/ruby/gems/1.8/gems/mongrel-1.1.5-x86-mswin32-60/lib/mongrel.rb:159:in `process_client'
+C:/Ruby/lib/ruby/gems/1.8/gems/mongrel-1.1.5-x86-mswin32-60/lib/mongrel.rb:158:in `each'
+C:/Ruby/lib/ruby/gems/1.8/gems/mongrel-1.1.5-x86-mswin32-60/lib/mongrel.rb:158:in `process_client'
+C:/Ruby/lib/ruby/gems/1.8/gems/mongrel-1.1.5-x86-mswin32-60/lib/mongrel.rb:285:in `run'
+C:/Ruby/lib/ruby/gems/1.8/gems/mongrel-1.1.5-x86-mswin32-60/lib/mongrel.rb:285:in `initialize'
+C:/Ruby/lib/ruby/gems/1.8/gems/mongrel-1.1.5-x86-mswin32-60/lib/mongrel.rb:285:in `new'
+C:/Ruby/lib/ruby/gems/1.8/gems/mongrel-1.1.5-x86-mswin32-60/lib/mongrel.rb:285:in `run'
+C:/Ruby/lib/ruby/gems/1.8/gems/mongrel-1.1.5-x86-mswin32-60/lib/mongrel.rb:268:in `initialize'
+C:/Ruby/lib/ruby/gems/1.8/gems/mongrel-1.1.5-x86-mswin32-60/lib/mongrel.rb:268:in `new'
+C:/Ruby/lib/ruby/gems/1.8/gems/mongrel-1.1.5-x86-mswin32-60/lib/mongrel.rb:268:in `run'
+C:/Ruby/lib/ruby/gems/1.8/gems/rack-1.0.0/lib/rack/handler/mongrel.rb:34:in `run'
+C:/Ruby/lib/ruby/gems/1.8/gems/rails-2.3.2/lib/commands/server.rb:111
+C:/Ruby/lib/ruby/site_ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+C:/Ruby/lib/ruby/site_ruby/1.8/rubygems/custom_require.rb:31:in `require'
+script/server:3
+
+ActionView::TemplateError (compile error
+C:/Users/Charlie/519Productions/app/views/welcome/index.html.erb:59: syntax error, unexpected ';', expecting ')'
+...p://www.facebook.com' ).to_s); @output_buffer.concat "\n"
+                              ^) on line #59 of app/views/welcome/index.html.erb:
+56:       :id => 'twitter_logo'} %>
+57:     <%= image_tag 'twitter_logo_hover.png', {:id => 'twitter_logo_hover'} %>
+58:     <%= link_to(image_tag 'fb_logo.png', {:width => '71', :height => '71',
+59:       :id => 'fb_logo'}, 'http://www.facebook.com' %>
+60:     <%= image_tag 'fb_logo_hover.png', {:id => 'fb_logo_hover'} %>
+61:     <%= image_tag 'myspace_logo.png', {:width => '76', :height => '75',
+62:       :id => 'ms_logo'} %>
+
+    app/views/welcome/index.html.erb:76:in `compile!'
+
+Rendered rescues/_trace (130.0ms)
+Rendered rescues/_request_and_response (30.0ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2009-11-13 17:40:16) [GET]
+Rendering welcome/index
+
+ActionView::TemplateError (wrong number of arguments (3 for 2)) on line #58 of app/views/welcome/index.html.erb:
+55:     <%= image_tag 'twitter_logo.png', {:width => '68', :height => '70',
+56:       :id => 'twitter_logo'} %>
+57:     <%= image_tag 'twitter_logo_hover.png', {:id => 'twitter_logo_hover'} %>
+58:     <%= link_to(image_tag 'fb_logo.png', {:width => '71', :height => '71',
+59:       :id => 'fb_logo'}, 'http://www.facebook.com') %>
+60:     <%= image_tag 'fb_logo_hover.png', {:id => 'fb_logo_hover'} %>
+61:     <%= image_tag 'myspace_logo.png', {:width => '76', :height => '75',
+
+    app/views/welcome/index.html.erb:58:in `image_tag'
+    app/views/welcome/index.html.erb:58
+
+Rendered rescues/_trace (71.0ms)
+Rendered rescues/_request_and_response (0.0ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2009-11-13 17:41:06) [GET]
+Rendering welcome/index
+
+ActionView::TemplateError (wrong number of arguments (3 for 2)) on line #58 of app/views/welcome/index.html.erb:
+55:     <%= image_tag 'twitter_logo.png', {:width => '68', :height => '70',
+56:       :id => 'twitter_logo'} %>
+57:     <%= image_tag 'twitter_logo_hover.png', {:id => 'twitter_logo_hover'} %>
+58:     <%= link_to(image_tag 'fb_logo.png', {:width => '71', :height => '71',
+59:       :id => 'fb_logo'}, 'http://www.facebook.com') %>
+60:     <%= image_tag 'fb_logo_hover.png', {:id => 'fb_logo_hover'} %>
+61:     <%= image_tag 'myspace_logo.png', {:width => '76', :height => '75',
+
+    app/views/welcome/index.html.erb:58:in `image_tag'
+    app/views/welcome/index.html.erb:58
+
+Rendered rescues/_trace (90.0ms)
+Rendered rescues/_request_and_response (0.0ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2009-11-13 17:41:20) [GET]
+Rendering welcome/index
+Completed in 19ms (View: 17, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2009-11-13 17:42:00) [GET]
+Rendering welcome/index
+Completed in 19ms (View: 18, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2009-11-13 17:42:22) [GET]
+Rendering welcome/index
+Completed in 18ms (View: 16, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2009-11-13 19:59:30) [GET]
+Rendering welcome/index
+ERROR: compiling _run_erb_app47views47welcome47index46html46erb RAISED compile error
+C:/Users/Charlie/519Productions/app/views/welcome/index.html.erb:75: syntax error, unexpected kENSURE, expecting ')'
+C:/Users/Charlie/519Productions/app/views/welcome/index.html.erb:77: syntax error, unexpected kEND, expecting ')'
+Function body:           def _run_erb_app47views47welcome47index46html46erb(local_assigns)
+            old_output_buffer = output_buffer;;@output_buffer = '';  __in_erb_template=true ; @output_buffer.concat "<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">\n"
+@output_buffer.concat "<html xmlns=\"http://www.w3.org/1999/xhtml\">\n"
+@output_buffer.concat "<head>\n"
+@output_buffer.concat "<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" />\n"
+@output_buffer.concat "<title>519 Productions</title>\n"
+@output_buffer.concat(( stylesheet_link_tag 'main', 'tweet' ).to_s); @output_buffer.concat "\n"
+@output_buffer.concat(( javascript_include_tag 'jquery.min.js', 'tweet/jquery.tweet.js', 'application.js' ).to_s); @output_buffer.concat "\n"
+@output_buffer.concat "\n"
+@output_buffer.concat "<script type=\"text/javascript\">\n"
+@output_buffer.concat "  $(document).ready(function () {\n"
+@output_buffer.concat "    $(\".tweet\").tweet({\n"
+@output_buffer.concat "      username: \"portableworld\",\n"
+@output_buffer.concat "      count: 3\n"
+@output_buffer.concat "      \n"
+@output_buffer.concat "    });\n"
+@output_buffer.concat "  });\n"
+@output_buffer.concat "</script>\n"
+@output_buffer.concat "</head>\n"
+@output_buffer.concat "\n"
+@output_buffer.concat "<body>\n"
+@output_buffer.concat "<p>\n"
+@output_buffer.concat "  "; @output_buffer.concat(( image_tag 'verse.png', {:alt => 'Verse', :name => 'verse',
+    :id => 'verse', :width => '553', :height => '162'} ).to_s); @output_buffer.concat "\n"
+@output_buffer.concat "  "; @output_buffer.concat(( image_tag 'latest_happening.png', {:name => 'latest_h', :width => '254',
+    :height => '187', :id => 'latest_h'} ).to_s); @output_buffer.concat "\n"
+@output_buffer.concat "  "; @output_buffer.concat(( link_to((image_tag 'rss_logo.png', {:alt => 'RSS Feed Link', :name => 'rss_logo',
+          :width => '69', :height => '76', :id => 'rss_logo', :border => '0'}),
+      '#', {:target => '_blank'})).to_s); @output_buffer.concat "\n"
+@output_buffer.concat "  "; @output_buffer.concat(( image_tag 'rss_logo_hover.png', {:id => 'rss_logo_hover'} ).to_s); @output_buffer.concat "\n"
+@output_buffer.concat "  "; @output_buffer.concat((  image_tag 'new_happenings.png', {:name => 'latest_line', :width => '242',
+          :height => '164', :id => 'latest_line'} ).to_s); @output_buffer.concat "\n"
+@output_buffer.concat "\n"
+@output_buffer.concat "  <p class=\"links\">\n"
+@output_buffer.concat "    "; @output_buffer.concat(( image_tag 'home.png', {:alt => 'Home', :name => 'home',
+      :width => '69', :height => '19', :id => 'home'} ).to_s); @output_buffer.concat "\n"
+@output_buffer.concat "    "; @output_buffer.concat(( image_tag 'home_hover.png', {:alt => 'Home', :name => 'home',
+      :id => 'home_hover'} ).to_s); @output_buffer.concat "\n"
+@output_buffer.concat "    "; @output_buffer.concat(( image_tag 'artists.png', {:alt => 'Artists', :name => 'artists',
+      :width => '80', :height => '21', :id => 'artists'} ).to_s); @output_buffer.concat "\n"
+@output_buffer.concat "    "; @output_buffer.concat(( image_tag 'artists_hover.png', {:alt => 'Artists', :name => 'artists',
+      :id => 'artists_hover'} ).to_s); @output_buffer.concat "\n"
+@output_buffer.concat "    "; @output_buffer.concat(( image_tag 'bookings.png', {:alt => 'Bookings', :name => 'bookings',
+      :width => '105', :height => '28', :id => 'bookings'} ).to_s); @output_buffer.concat "\n"
+@output_buffer.concat "    "; @output_buffer.concat(( image_tag 'bookings_hover.png', {:alt => 'Bookings', :name => 'bookings',
+      :id => 'bookings_hover'} ).to_s); @output_buffer.concat "\n"
+@output_buffer.concat "    "; @output_buffer.concat(( image_tag 'about.png', {:alt => 'About', :name => 'about',
+      :width => '74', :height => '22', :id => 'about'} ).to_s); @output_buffer.concat "\n"
+@output_buffer.concat "    "; @output_buffer.concat(( image_tag 'about_hover.png', {:alt => 'About', :name => 'about',
+      :id => 'about_hover'} ).to_s); @output_buffer.concat "\n"
+@output_buffer.concat "    "; @output_buffer.concat(( image_tag 'gold_lines.png', {:width => '964', :height => '604',
+      :id => 'gold_lines'} ).to_s); @output_buffer.concat "\n"
+@output_buffer.concat "    "; @output_buffer.concat(( image_tag 'up_line.png', {:width => '1', :height => '353',
+      :id => 'up_line'} ).to_s); @output_buffer.concat "\n"
+@output_buffer.concat "    "; @output_buffer.concat(( image_tag 'content.png', {:width => '891', :height => '457',
+      :id => 'content_area'} ).to_s); @output_buffer.concat "\n"
+@output_buffer.concat "    "; @output_buffer.concat(( link_to((image_tag 'twitter_logo.png', {:width => '68', :height => '70',
+          :id => 'twitter_logo', :border => '0'}, 'http://www.twitter.com', {:target => '_blank'} ).to_s); @output_buffer.concat "\n"
+@output_buffer.concat "    "; @output_buffer.concat(( image_tag 'twitter_logo_hover.png', {:id => 'twitter_logo_hover'} ).to_s); @output_buffer.concat "\n"
+@output_buffer.concat "    "; @output_buffer.concat(( link_to((image_tag 'fb_logo.png', {:width => '71', :height => '71',
+          :id => 'fb_logo', :border => '0'}), 'http://www.facebook.com', {:target => '_blank'}) ).to_s); @output_buffer.concat "\n"
+@output_buffer.concat "    "; @output_buffer.concat(( image_tag 'fb_logo_hover.png', {:id => 'fb_logo_hover'} ).to_s); @output_buffer.concat "\n"
+@output_buffer.concat "    "; @output_buffer.concat(( link_to((image_tag 'myspace_logo.png', {:width => '76', :height => '75',
+          :id => 'ms_logo', :border => '0'}), 'http://www.myspace.com', {:target => '_blank'}) ).to_s); @output_buffer.concat "\n"
+@output_buffer.concat "    "; @output_buffer.concat(( image_tag 'myspace_logo_hover.png', {:id => 'ms_logo_hover'} ).to_s); @output_buffer.concat "\n"
+@output_buffer.concat "    "; @output_buffer.concat(( image_tag 'side_line.png', {:width => '292', :height => '1',
+      :id => 'side_line'} ).to_s); @output_buffer.concat "\n"
+@output_buffer.concat "        "; @output_buffer.concat(( image_tag 'twitter_bubble.png', {:id => 'bubble'} ).to_s); @output_buffer.concat "\n"
+@output_buffer.concat "        "; @output_buffer.concat(( image_tag 'twitter_logo_name.png', {:width => '252', :height => '52',
+          :id => 'twitter_logo_name'} ).to_s); @output_buffer.concat "\n"
+@output_buffer.concat "    <div class=\"tweet\"></div>\n"
+@output_buffer.concat "  </p>\n"
+@output_buffer.concat "</body>\n"
+@output_buffer.concat "</html>\n"
+@output_buffer
+          ensure
+            self.output_buffer = old_output_buffer
+          end
+Backtrace: C:/Users/Charlie/519Productions/app/views/welcome/index.html.erb:77:in `compile!'
+C:/Ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_view/renderable.rb:61:in `compile'
+C:/Ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_view/renderable.rb:28:in `render'
+C:/Ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_view/template.rb:194:in `render_template'
+C:/Ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_view/base.rb:260:in `render'
+C:/Ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/base.rb:1241:in `render_for_file'
+C:/Ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/base.rb:937:in `render_without_benchmark'
+C:/Ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/benchmarking.rb:51:in `render'
+C:/Ruby/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+C:/Ruby/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/core_ext/benchmark.rb:10:in `realtime'
+C:/Ruby/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+C:/Ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/benchmarking.rb:51:in `render'
+C:/Ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/base.rb:1317:in `default_render'
+C:/Ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/base.rb:1323:in `perform_action_without_filters'
+C:/Ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/filters.rb:617:in `call_filters'
+C:/Ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/filters.rb:610:in `perform_action_without_benchmark'
+C:/Ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/benchmarking.rb:68:in `perform_action_without_rescue'
+C:/Ruby/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+C:/Ruby/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/core_ext/benchmark.rb:10:in `realtime'
+C:/Ruby/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+C:/Ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/benchmarking.rb:68:in `perform_action_without_rescue'
+C:/Ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/rescue.rb:160:in `perform_action_without_flash'
+C:/Ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/flash.rb:141:in `perform_action'
+C:/Ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/base.rb:523:in `send'
+C:/Ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/base.rb:523:in `process_without_filters'
+C:/Ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/filters.rb:606:in `process'
+C:/Ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/base.rb:391:in `process'
+C:/Ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/base.rb:386:in `call'
+C:/Ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/routing/route_set.rb:433:in `call'
+C:/Ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/dispatcher.rb:88:in `dispatch'
+C:/Ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/dispatcher.rb:111:in `_call'
+C:/Ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/dispatcher.rb:82:in `initialize'
+C:/Ruby/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/query_cache.rb:29:in `call'
+C:/Ruby/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/query_cache.rb:29:in `call'
+C:/Ruby/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/connection_adapters/abstract/query_cache.rb:34:in `cache'
+C:/Ruby/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/query_cache.rb:9:in `cache'
+C:/Ruby/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/query_cache.rb:28:in `call'
+C:/Ruby/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/connection_adapters/abstract/connection_pool.rb:361:in `call'
+C:/Ruby/lib/ruby/gems/1.8/gems/rack-1.0.0/lib/rack/head.rb:9:in `call'
+C:/Ruby/lib/ruby/gems/1.8/gems/rack-1.0.0/lib/rack/methodoverride.rb:24:in `call'
+C:/Ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/params_parser.rb:15:in `call'
+C:/Ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/rewindable_input.rb:25:in `call'
+C:/Ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/session/cookie_store.rb:93:in `call'
+C:/Ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/reloader.rb:9:in `call'
+C:/Ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/failsafe.rb:11:in `call'
+C:/Ruby/lib/ruby/gems/1.8/gems/rack-1.0.0/lib/rack/lock.rb:11:in `call'
+C:/Ruby/lib/ruby/gems/1.8/gems/rack-1.0.0/lib/rack/lock.rb:11:in `synchronize'
+C:/Ruby/lib/ruby/gems/1.8/gems/rack-1.0.0/lib/rack/lock.rb:11:in `call'
+C:/Ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/dispatcher.rb:106:in `call'
+C:/Ruby/lib/ruby/gems/1.8/gems/rails-2.3.2/lib/rails/rack/static.rb:31:in `call'
+C:/Ruby/lib/ruby/gems/1.8/gems/rack-1.0.0/lib/rack/urlmap.rb:46:in `call'
+C:/Ruby/lib/ruby/gems/1.8/gems/rack-1.0.0/lib/rack/urlmap.rb:40:in `each'
+C:/Ruby/lib/ruby/gems/1.8/gems/rack-1.0.0/lib/rack/urlmap.rb:40:in `call'
+C:/Ruby/lib/ruby/gems/1.8/gems/rails-2.3.2/lib/rails/rack/log_tailer.rb:17:in `call'
+C:/Ruby/lib/ruby/gems/1.8/gems/rack-1.0.0/lib/rack/content_length.rb:13:in `call'
+C:/Ruby/lib/ruby/gems/1.8/gems/rack-1.0.0/lib/rack/chunked.rb:15:in `call'
+C:/Ruby/lib/ruby/gems/1.8/gems/rack-1.0.0/lib/rack/handler/mongrel.rb:61:in `process'
+C:/Ruby/lib/ruby/gems/1.8/gems/mongrel-1.1.5-x86-mswin32-60/lib/mongrel.rb:159:in `process_client'
+C:/Ruby/lib/ruby/gems/1.8/gems/mongrel-1.1.5-x86-mswin32-60/lib/mongrel.rb:158:in `each'
+C:/Ruby/lib/ruby/gems/1.8/gems/mongrel-1.1.5-x86-mswin32-60/lib/mongrel.rb:158:in `process_client'
+C:/Ruby/lib/ruby/gems/1.8/gems/mongrel-1.1.5-x86-mswin32-60/lib/mongrel.rb:285:in `run'
+C:/Ruby/lib/ruby/gems/1.8/gems/mongrel-1.1.5-x86-mswin32-60/lib/mongrel.rb:285:in `initialize'
+C:/Ruby/lib/ruby/gems/1.8/gems/mongrel-1.1.5-x86-mswin32-60/lib/mongrel.rb:285:in `new'
+C:/Ruby/lib/ruby/gems/1.8/gems/mongrel-1.1.5-x86-mswin32-60/lib/mongrel.rb:285:in `run'
+C:/Ruby/lib/ruby/gems/1.8/gems/mongrel-1.1.5-x86-mswin32-60/lib/mongrel.rb:268:in `initialize'
+C:/Ruby/lib/ruby/gems/1.8/gems/mongrel-1.1.5-x86-mswin32-60/lib/mongrel.rb:268:in `new'
+C:/Ruby/lib/ruby/gems/1.8/gems/mongrel-1.1.5-x86-mswin32-60/lib/mongrel.rb:268:in `run'
+C:/Ruby/lib/ruby/gems/1.8/gems/rack-1.0.0/lib/rack/handler/mongrel.rb:34:in `run'
+C:/Ruby/lib/ruby/gems/1.8/gems/rails-2.3.2/lib/commands/server.rb:111
+C:/Ruby/lib/ruby/site_ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+C:/Ruby/lib/ruby/site_ruby/1.8/rubygems/custom_require.rb:31:in `require'
+script/server:3
+
+ActionView::TemplateError (compile error
+C:/Users/Charlie/519Productions/app/views/welcome/index.html.erb:75: syntax error, unexpected kENSURE, expecting ')'
+C:/Users/Charlie/519Productions/app/views/welcome/index.html.erb:77: syntax error, unexpected kEND, expecting ')') on line #75 of app/views/welcome/index.html.erb:
+72: </body>
+73: </html>
+
+    app/views/welcome/index.html.erb:77:in `compile!'
+
+Rendered rescues/_trace (123.0ms)
+Rendered rescues/_request_and_response (13.0ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2009-11-13 20:00:39) [GET]
+Rendering welcome/index
+ERROR: compiling _run_erb_app47views47welcome47index46html46erb RAISED compile error
+C:/Users/Charlie/519Productions/app/views/welcome/index.html.erb:57: syntax error, unexpected ';', expecting ')'
+...:target => '_blank'}) ).to_s); @output_buffer.concat "\n"
+                              ^
+Function body:           def _run_erb_app47views47welcome47index46html46erb(local_assigns)
+            old_output_buffer = output_buffer;;@output_buffer = '';  __in_erb_template=true ; @output_buffer.concat "<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">\n"
+@output_buffer.concat "<html xmlns=\"http://www.w3.org/1999/xhtml\">\n"
+@output_buffer.concat "<head>\n"
+@output_buffer.concat "<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" />\n"
+@output_buffer.concat "<title>519 Productions</title>\n"
+@output_buffer.concat(( stylesheet_link_tag 'main', 'tweet' ).to_s); @output_buffer.concat "\n"
+@output_buffer.concat(( javascript_include_tag 'jquery.min.js', 'tweet/jquery.tweet.js', 'application.js' ).to_s); @output_buffer.concat "\n"
+@output_buffer.concat "\n"
+@output_buffer.concat "<script type=\"text/javascript\">\n"
+@output_buffer.concat "  $(document).ready(function () {\n"
+@output_buffer.concat "    $(\".tweet\").tweet({\n"
+@output_buffer.concat "      username: \"portableworld\",\n"
+@output_buffer.concat "      count: 3\n"
+@output_buffer.concat "      \n"
+@output_buffer.concat "    });\n"
+@output_buffer.concat "  });\n"
+@output_buffer.concat "</script>\n"
+@output_buffer.concat "</head>\n"
+@output_buffer.concat "\n"
+@output_buffer.concat "<body>\n"
+@output_buffer.concat "<p>\n"
+@output_buffer.concat "  "; @output_buffer.concat(( image_tag 'verse.png', {:alt => 'Verse', :name => 'verse',
+    :id => 'verse', :width => '553', :height => '162'} ).to_s); @output_buffer.concat "\n"
+@output_buffer.concat "  "; @output_buffer.concat(( image_tag 'latest_happening.png', {:name => 'latest_h', :width => '254',
+    :height => '187', :id => 'latest_h'} ).to_s); @output_buffer.concat "\n"
+@output_buffer.concat "  "; @output_buffer.concat(( link_to((image_tag 'rss_logo.png', {:alt => 'RSS Feed Link', :name => 'rss_logo',
+          :width => '69', :height => '76', :id => 'rss_logo', :border => '0'}),
+      '#', {:target => '_blank'})).to_s); @output_buffer.concat "\n"
+@output_buffer.concat "  "; @output_buffer.concat(( image_tag 'rss_logo_hover.png', {:id => 'rss_logo_hover'} ).to_s); @output_buffer.concat "\n"
+@output_buffer.concat "  "; @output_buffer.concat((  image_tag 'new_happenings.png', {:name => 'latest_line', :width => '242',
+          :height => '164', :id => 'latest_line'} ).to_s); @output_buffer.concat "\n"
+@output_buffer.concat "\n"
+@output_buffer.concat "  <p class=\"links\">\n"
+@output_buffer.concat "    "; @output_buffer.concat(( image_tag 'home.png', {:alt => 'Home', :name => 'home',
+      :width => '69', :height => '19', :id => 'home'} ).to_s); @output_buffer.concat "\n"
+@output_buffer.concat "    "; @output_buffer.concat(( image_tag 'home_hover.png', {:alt => 'Home', :name => 'home',
+      :id => 'home_hover'} ).to_s); @output_buffer.concat "\n"
+@output_buffer.concat "    "; @output_buffer.concat(( image_tag 'artists.png', {:alt => 'Artists', :name => 'artists',
+      :width => '80', :height => '21', :id => 'artists'} ).to_s); @output_buffer.concat "\n"
+@output_buffer.concat "    "; @output_buffer.concat(( image_tag 'artists_hover.png', {:alt => 'Artists', :name => 'artists',
+      :id => 'artists_hover'} ).to_s); @output_buffer.concat "\n"
+@output_buffer.concat "    "; @output_buffer.concat(( image_tag 'bookings.png', {:alt => 'Bookings', :name => 'bookings',
+      :width => '105', :height => '28', :id => 'bookings'} ).to_s); @output_buffer.concat "\n"
+@output_buffer.concat "    "; @output_buffer.concat(( image_tag 'bookings_hover.png', {:alt => 'Bookings', :name => 'bookings',
+      :id => 'bookings_hover'} ).to_s); @output_buffer.concat "\n"
+@output_buffer.concat "    "; @output_buffer.concat(( image_tag 'about.png', {:alt => 'About', :name => 'about',
+      :width => '74', :height => '22', :id => 'about'} ).to_s); @output_buffer.concat "\n"
+@output_buffer.concat "    "; @output_buffer.concat(( image_tag 'about_hover.png', {:alt => 'About', :name => 'about',
+      :id => 'about_hover'} ).to_s); @output_buffer.concat "\n"
+@output_buffer.concat "    "; @output_buffer.concat(( image_tag 'gold_lines.png', {:width => '964', :height => '604',
+      :id => 'gold_lines'} ).to_s); @output_buffer.concat "\n"
+@output_buffer.concat "    "; @output_buffer.concat(( image_tag 'up_line.png', {:width => '1', :height => '353',
+      :id => 'up_line'} ).to_s); @output_buffer.concat "\n"
+@output_buffer.concat "    "; @output_buffer.concat(( image_tag 'content.png', {:width => '891', :height => '457',
+      :id => 'content_area'} ).to_s); @output_buffer.concat "\n"
+@output_buffer.concat "    "; @output_buffer.concat(( link_to((image_tag 'twitter_logo.png', {:width => '68', :height => '70',
+          :id => 'twitter_logo', :border => '0'}, 'http://www.twitter.com', {:target => '_blank'}) ).to_s); @output_buffer.concat "\n"
+@output_buffer.concat "    "; @output_buffer.concat(( image_tag 'twitter_logo_hover.png', {:id => 'twitter_logo_hover'} ).to_s); @output_buffer.concat "\n"
+@output_buffer.concat "    "; @output_buffer.concat(( link_to((image_tag 'fb_logo.png', {:width => '71', :height => '71',
+          :id => 'fb_logo', :border => '0'}), 'http://www.facebook.com', {:target => '_blank'}) ).to_s); @output_buffer.concat "\n"
+@output_buffer.concat "    "; @output_buffer.concat(( image_tag 'fb_logo_hover.png', {:id => 'fb_logo_hover'} ).to_s); @output_buffer.concat "\n"
+@output_buffer.concat "    "; @output_buffer.concat(( link_to((image_tag 'myspace_logo.png', {:width => '76', :height => '75',
+          :id => 'ms_logo', :border => '0'}), 'http://www.myspace.com', {:target => '_blank'}) ).to_s); @output_buffer.concat "\n"
+@output_buffer.concat "    "; @output_buffer.concat(( image_tag 'myspace_logo_hover.png', {:id => 'ms_logo_hover'} ).to_s); @output_buffer.concat "\n"
+@output_buffer.concat "    "; @output_buffer.concat(( image_tag 'side_line.png', {:width => '292', :height => '1',
+      :id => 'side_line'} ).to_s); @output_buffer.concat "\n"
+@output_buffer.concat "        "; @output_buffer.concat(( image_tag 'twitter_bubble.png', {:id => 'bubble'} ).to_s); @output_buffer.concat "\n"
+@output_buffer.concat "        "; @output_buffer.concat(( image_tag 'twitter_logo_name.png', {:width => '252', :height => '52',
+          :id => 'twitter_logo_name'} ).to_s); @output_buffer.concat "\n"
+@output_buffer.concat "    <div class=\"tweet\"></div>\n"
+@output_buffer.concat "  </p>\n"
+@output_buffer.concat "</body>\n"
+@output_buffer.concat "</html>\n"
+@output_buffer
+          ensure
+            self.output_buffer = old_output_buffer
+          end
+Backtrace: C:/Users/Charlie/519Productions/app/views/welcome/index.html.erb:77:in `compile!'
+C:/Ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_view/renderable.rb:61:in `compile'
+C:/Ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_view/renderable.rb:28:in `render'
+C:/Ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_view/template.rb:194:in `render_template'
+C:/Ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_view/base.rb:260:in `render'
+C:/Ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/base.rb:1241:in `render_for_file'
+C:/Ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/base.rb:937:in `render_without_benchmark'
+C:/Ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/benchmarking.rb:51:in `render'
+C:/Ruby/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+C:/Ruby/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/core_ext/benchmark.rb:10:in `realtime'
+C:/Ruby/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+C:/Ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/benchmarking.rb:51:in `render'
+C:/Ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/base.rb:1317:in `default_render'
+C:/Ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/base.rb:1323:in `perform_action_without_filters'
+C:/Ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/filters.rb:617:in `call_filters'
+C:/Ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/filters.rb:610:in `perform_action_without_benchmark'
+C:/Ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/benchmarking.rb:68:in `perform_action_without_rescue'
+C:/Ruby/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+C:/Ruby/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/core_ext/benchmark.rb:10:in `realtime'
+C:/Ruby/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+C:/Ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/benchmarking.rb:68:in `perform_action_without_rescue'
+C:/Ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/rescue.rb:160:in `perform_action_without_flash'
+C:/Ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/flash.rb:141:in `perform_action'
+C:/Ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/base.rb:523:in `send'
+C:/Ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/base.rb:523:in `process_without_filters'
+C:/Ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/filters.rb:606:in `process'
+C:/Ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/base.rb:391:in `process'
+C:/Ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/base.rb:386:in `call'
+C:/Ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/routing/route_set.rb:433:in `call'
+C:/Ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/dispatcher.rb:88:in `dispatch'
+C:/Ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/dispatcher.rb:111:in `_call'
+C:/Ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/dispatcher.rb:82:in `initialize'
+C:/Ruby/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/query_cache.rb:29:in `call'
+C:/Ruby/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/query_cache.rb:29:in `call'
+C:/Ruby/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/connection_adapters/abstract/query_cache.rb:34:in `cache'
+C:/Ruby/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/query_cache.rb:9:in `cache'
+C:/Ruby/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/query_cache.rb:28:in `call'
+C:/Ruby/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/connection_adapters/abstract/connection_pool.rb:361:in `call'
+C:/Ruby/lib/ruby/gems/1.8/gems/rack-1.0.0/lib/rack/head.rb:9:in `call'
+C:/Ruby/lib/ruby/gems/1.8/gems/rack-1.0.0/lib/rack/methodoverride.rb:24:in `call'
+C:/Ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/params_parser.rb:15:in `call'
+C:/Ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/rewindable_input.rb:25:in `call'
+C:/Ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/session/cookie_store.rb:93:in `call'
+C:/Ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/reloader.rb:9:in `call'
+C:/Ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/failsafe.rb:11:in `call'
+C:/Ruby/lib/ruby/gems/1.8/gems/rack-1.0.0/lib/rack/lock.rb:11:in `call'
+C:/Ruby/lib/ruby/gems/1.8/gems/rack-1.0.0/lib/rack/lock.rb:11:in `synchronize'
+C:/Ruby/lib/ruby/gems/1.8/gems/rack-1.0.0/lib/rack/lock.rb:11:in `call'
+C:/Ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/dispatcher.rb:106:in `call'
+C:/Ruby/lib/ruby/gems/1.8/gems/rails-2.3.2/lib/rails/rack/static.rb:31:in `call'
+C:/Ruby/lib/ruby/gems/1.8/gems/rack-1.0.0/lib/rack/urlmap.rb:46:in `call'
+C:/Ruby/lib/ruby/gems/1.8/gems/rack-1.0.0/lib/rack/urlmap.rb:40:in `each'
+C:/Ruby/lib/ruby/gems/1.8/gems/rack-1.0.0/lib/rack/urlmap.rb:40:in `call'
+C:/Ruby/lib/ruby/gems/1.8/gems/rails-2.3.2/lib/rails/rack/log_tailer.rb:17:in `call'
+C:/Ruby/lib/ruby/gems/1.8/gems/rack-1.0.0/lib/rack/content_length.rb:13:in `call'
+C:/Ruby/lib/ruby/gems/1.8/gems/rack-1.0.0/lib/rack/chunked.rb:15:in `call'
+C:/Ruby/lib/ruby/gems/1.8/gems/rack-1.0.0/lib/rack/handler/mongrel.rb:61:in `process'
+C:/Ruby/lib/ruby/gems/1.8/gems/mongrel-1.1.5-x86-mswin32-60/lib/mongrel.rb:159:in `process_client'
+C:/Ruby/lib/ruby/gems/1.8/gems/mongrel-1.1.5-x86-mswin32-60/lib/mongrel.rb:158:in `each'
+C:/Ruby/lib/ruby/gems/1.8/gems/mongrel-1.1.5-x86-mswin32-60/lib/mongrel.rb:158:in `process_client'
+C:/Ruby/lib/ruby/gems/1.8/gems/mongrel-1.1.5-x86-mswin32-60/lib/mongrel.rb:285:in `run'
+C:/Ruby/lib/ruby/gems/1.8/gems/mongrel-1.1.5-x86-mswin32-60/lib/mongrel.rb:285:in `initialize'
+C:/Ruby/lib/ruby/gems/1.8/gems/mongrel-1.1.5-x86-mswin32-60/lib/mongrel.rb:285:in `new'
+C:/Ruby/lib/ruby/gems/1.8/gems/mongrel-1.1.5-x86-mswin32-60/lib/mongrel.rb:285:in `run'
+C:/Ruby/lib/ruby/gems/1.8/gems/mongrel-1.1.5-x86-mswin32-60/lib/mongrel.rb:268:in `initialize'
+C:/Ruby/lib/ruby/gems/1.8/gems/mongrel-1.1.5-x86-mswin32-60/lib/mongrel.rb:268:in `new'
+C:/Ruby/lib/ruby/gems/1.8/gems/mongrel-1.1.5-x86-mswin32-60/lib/mongrel.rb:268:in `run'
+C:/Ruby/lib/ruby/gems/1.8/gems/rack-1.0.0/lib/rack/handler/mongrel.rb:34:in `run'
+C:/Ruby/lib/ruby/gems/1.8/gems/rails-2.3.2/lib/commands/server.rb:111
+C:/Ruby/lib/ruby/site_ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+C:/Ruby/lib/ruby/site_ruby/1.8/rubygems/custom_require.rb:31:in `require'
+script/server:3
+
+ActionView::TemplateError (compile error
+C:/Users/Charlie/519Productions/app/views/welcome/index.html.erb:57: syntax error, unexpected ';', expecting ')'
+...:target => '_blank'}) ).to_s); @output_buffer.concat "\n"
+                              ^) on line #57 of app/views/welcome/index.html.erb:
+54:     <%= image_tag 'content.png', {:width => '891', :height => '457',
+55:       :id => 'content_area'} %>
+56:     <%= link_to((image_tag 'twitter_logo.png', {:width => '68', :height => '70',
+57:           :id => 'twitter_logo', :border => '0'}, 'http://www.twitter.com', {:target => '_blank'}) %>
+58:     <%= image_tag 'twitter_logo_hover.png', {:id => 'twitter_logo_hover'} %>
+59:     <%= link_to((image_tag 'fb_logo.png', {:width => '71', :height => '71',
+60:           :id => 'fb_logo', :border => '0'}), 'http://www.facebook.com', {:target => '_blank'}) %>
+
+    app/views/welcome/index.html.erb:77:in `compile!'
+
+Rendered rescues/_trace (105.0ms)
+Rendered rescues/_request_and_response (0.0ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2009-11-13 20:01:15) [GET]
+Rendering welcome/index
+Completed in 19ms (View: 17, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2009-11-13 20:04:44) [GET]
+Rendering welcome/index
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2009-11-13 20:06:11) [GET]
+Rendering welcome/index
+Completed in 10ms (View: 9, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2009-11-13 20:06:37) [GET]
+Rendering welcome/index
+Completed in 11ms (View: 10, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2009-11-13 20:06:49) [GET]
+Rendering welcome/index
+Completed in 11ms (View: 9, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2009-11-13 22:25:21) [GET]
+Rendering welcome/index
+Completed in 10ms (View: 9, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2009-11-13 22:25:57) [GET]
+Rendering welcome/index
+Completed in 18ms (View: 17, DB: 0) | 200 OK [http://localhost/]

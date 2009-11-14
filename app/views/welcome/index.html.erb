@@ -3,8 +3,18 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title>519 Productions</title>
-<%= stylesheet_link_tag 'main' %>
-<%= javascript_include_tag 'jquery.min.js', 'application.js' %>
+<%= stylesheet_link_tag 'main', 'tweet' %>
+<%= javascript_include_tag 'jquery.min.js', 'tweet/jquery.tweet.js', 'application.js' %>
+
+<script type="text/javascript">
+  $(document).ready(function () {
+    $(".tweet").tweet({
+      username: "portableworld",
+      count: 1
+      
+    });
+  });
+</script>
 </head>
 
 <body>
@@ -13,8 +23,9 @@
     :id => 'verse', :width => '553', :height => '162'} %>
   <%= image_tag 'latest_happening.png', {:name => 'latest_h', :width => '254',
     :height => '187', :id => 'latest_h'} %>
-  <%= image_tag 'rss_logo.png', {:alt => 'RSS Feed Link', :name => 'rss_logo',
-    :width => '69', :height => '76', :id => 'rss_logo'} %>
+  <%= link_to((image_tag 'rss_logo.png', {:alt => 'RSS Feed Link', :name => 'rss_logo',
+          :width => '69', :height => '76', :id => 'rss_logo', :border => '0'}),
+      '#', {:target => '_blank'})%>
   <%= image_tag 'rss_logo_hover.png', {:id => 'rss_logo_hover'} %>
   <%=  image_tag 'new_happenings.png', {:name => 'latest_line', :width => '242',
           :height => '164', :id => 'latest_line'} %>
@@ -42,22 +53,21 @@
       :id => 'up_line'} %>
     <%= image_tag 'content.png', {:width => '891', :height => '457',
       :id => 'content_area'} %>
-    <%= image_tag 'twitter_logo.png', {:width => '68', :height => '70',
-      :id => 'twitter_logo'} %>
+    <%= link_to((image_tag 'twitter_logo.png', {:width => '68', :height => '70',
+          :id => 'twitter_logo', :border => '0'}), 'http://www.twitter.com', {:target => '_blank'}) %>
     <%= image_tag 'twitter_logo_hover.png', {:id => 'twitter_logo_hover'} %>
-    <%= image_tag 'fb_logo.png', {:width => '71', :height => '71',
-      :id => 'fb_logo'} %>
+    <%= link_to((image_tag 'fb_logo.png', {:width => '71', :height => '71',
+          :id => 'fb_logo', :border => '0'}), 'http://www.facebook.com', {:target => '_blank'}) %>
     <%= image_tag 'fb_logo_hover.png', {:id => 'fb_logo_hover'} %>
-    <%= image_tag 'myspace_logo.png', {:width => '76', :height => '75',
-      :id => 'ms_logo'} %>
+    <%= link_to((image_tag 'myspace_logo.png', {:width => '76', :height => '75',
+          :id => 'ms_logo', :border => '0'}), 'http://www.myspace.com', {:target => '_blank'}) %>
     <%= image_tag 'myspace_logo_hover.png', {:id => 'ms_logo_hover'} %>
     <%= image_tag 'side_line.png', {:width => '292', :height => '1',
       :id => 'side_line'} %>
-    <%= image_tag 'twitter_bubble.png', {:width => '472', :height => '71',
-      :id => 'bubble'} %>
-    <%= image_tag 'twitter_logo_name.png', {:width => '252', :height => '52',
-      :id => 'twitter_logo_name'} %>
-
+        <%= image_tag 'twitter_bubble.png', {:id => 'bubble'} %>
+        <%= image_tag 'twitter_logo_name.png', {:width => '252', :height => '52',
+          :id => 'twitter_logo_name'} %>
+    <div class="tweet"></div>
   </p>
 </body>
 </html>
