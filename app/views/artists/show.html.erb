@@ -1,0 +1,38 @@
+<p>
+  <b>Name:</b>
+  <%=h @artist.name %>
+</p>
+
+<p>
+  <b>Genre:</b>
+  <%=h @artist.genre %>
+</p>
+
+<p>
+  <b>Bio:</b>
+  <%=h @artist.bio %>
+</p>
+
+<p>
+  <b>Link:</b>
+  <%=h @artist.link %>
+</p>
+
+<p>
+  <b>Album cover:</b>
+  <%=h @artist.album_cover %>
+</p>
+
+<p>
+  <b>Discography:</b>
+  <%=h @artist.discography %>
+</p>
+
+<p>
+  <b>Blurb:</b>
+  <%=h @artist.blurb %>
+</p>
+
+
+<%= link_to 'Edit', edit_artist_path(@artist) %> |
+<%= link_to 'Back', artists_path %>

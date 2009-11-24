@@ -1,0 +1,19 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  name: MyString
+  genre: MyString
+  bio: MyText
+  link: MyString
+  album_cover: MyString
+  discography: MyText
+  blurb: MyString
+
+two:
+  name: MyString
+  genre: MyString
+  bio: MyText
+  link: MyString
+  album_cover: MyString
+  discography: MyText
+  blurb: MyString

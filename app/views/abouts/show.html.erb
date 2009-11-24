@@ -1,0 +1,13 @@
+<p>
+  <b>Name:</b>
+  <%=h @about.name %>
+</p>
+
+<p>
+  <b>Bio:</b>
+  <%=h @about.bio %>
+</p>
+
+
+<%= link_to 'Edit', edit_about_path(@about) %> |
+<%= link_to 'Back', abouts_path %>
