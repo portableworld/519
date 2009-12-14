@@ -29,8 +29,8 @@ test:
   reconnect: false
   database: 519Productions_test
   pool: 5
-  username: root
-  password: MyssT69
+  username: ***
+  password: ***
   host: localhost
 
 production:
@@ -39,7 +39,7 @@ production:
   reconnect: false
   database: 519Productions_production
   pool: 5
-  username: root
-  password: MyssT69
+  username: ***
+  password: ***
   host: localhost
 
